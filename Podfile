@@ -9,6 +9,8 @@ pod 'wbxml',                      '~> 0.0.1'
 pod 'XMLDictionary',              '~> 1.4'
 pod 'MDRadialProgress',           '~> 1.2.0'
 pod 'UIDevice-PasscodeStatus',    '0.0.2'
+pod 'JSONModel', '~> 1.1.0'
+pod 'RegexKitLite', '~> 4.0'
 
 # Conference
 pod 'SocketRocket',               '~> 0.3.1-beta2'
